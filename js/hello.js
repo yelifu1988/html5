@@ -1,5 +1,5 @@
 function Person(){
-	name:'jack',
+	name:'jack ma',
 	age:23,
 	run:function(){
 	   console.log("I am running");
