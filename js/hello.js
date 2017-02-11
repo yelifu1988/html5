@@ -4,3 +4,5 @@ function Person(){
 	run:function(){
 	   console.log("I am running");
         }
+var yang=new Person();
+    yang.run();
